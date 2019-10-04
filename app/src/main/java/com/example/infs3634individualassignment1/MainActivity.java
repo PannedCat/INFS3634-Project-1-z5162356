@@ -207,7 +207,7 @@ public class MainActivity extends AppCompatActivity {
         TextView newYorkName = newYork.findViewById(R.id.cityName);
         newYorkName.setText(R.string.location5);
         newYorkTime.setText(twoFourFormatter(currentTime("America/New_York")));
-        
+
 
     }
 }
