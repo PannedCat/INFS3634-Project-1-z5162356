@@ -208,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
         newYorkName.setText(R.string.location5);
         newYorkTime.setText(twoFourFormatter(currentTime("America/New_York")));
 
-
+        
     }
 }
 
