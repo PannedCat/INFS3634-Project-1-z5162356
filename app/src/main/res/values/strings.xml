@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">INFS3634 Individual Assignment 1</string>
+    <string name="time1">12:00 AM</string>
+    <string name="time2">1:00 PM</string>
+    <string name="location1">Sydney</string>
+    <string name="location2">London</string>
+    <string name="location3">Shanghai</string>
+    <string name="location4">Tokyo</string>
+    <string name="location5">New York</string>
+    <string name="twelveTime">12 HR</string>
+    <string name="twoFourTime">24 HR</string>
+    <string name="appTitle">WORLD CLOCK</string>
+
+</resources>
